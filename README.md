@@ -1,6 +1,6 @@
 # Property Wala
 
-This AI-powered plagiarism detection apps use OpenAi API to scan documents for duplicate content, comparing them against vast online databases and academic sources. These tools identify potential plagiarism, self-plagiarism, and redundancy, providing detailed reports and highlighting problematic sections to ensure content originality
+An property recommendation website with AI powered features..
 
 ## Access Application
 
