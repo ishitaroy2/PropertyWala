@@ -7,7 +7,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "area": 1200,
-    "image": "/placeholder.svg?height=300&width=400",
+    "image": "https://images.unsplash.com/photo-1522050212171-61b01dd24579?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "A beautiful modern apartment in the heart of downtown, featuring high ceilings, large windows, and a fully equipped kitchen."
   },
   {
@@ -18,7 +18,7 @@
     "bedrooms": 3,
     "bathrooms": 2.5,
     "area": 2000,
-    "image": "/placeholder.svg?height=300&width=400",
+    "image": "https://images.unsplash.com/photo-1522050212171-61b01dd24579?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Charming family home in a quiet suburban neighborhood, with a spacious backyard, renovated kitchen, and attached garage."
   },
   {
@@ -29,7 +29,7 @@
     "bedrooms": 4,
     "bathrooms": 4,
     "area": 3500,
-    "image": "/placeholder.svg?height=300&width=400",
+    "image": "https://images.unsplash.com/photo-1522050212171-61b01dd24579?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Stunning beachfront property with panoramic ocean views, private pool, and high-end finishes throughout."
   },
   {
@@ -40,7 +40,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "area": 800,
-    "image": "/placeholder.svg?height=300&width=400",
+    "image": "https://images.unsplash.com/photo-1522050212171-61b01dd24579?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Trendy loft-style studio in a converted warehouse, featuring exposed brick walls, high ceilings, and modern amenities."
   }
 ]
