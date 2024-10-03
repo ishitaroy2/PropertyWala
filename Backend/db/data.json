@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Downtown Apartment",
+    "type": "For Rent",
+    "price": 2500,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1200,
+    "image": "/placeholder.svg?height=300&width=400",
+    "description": "A beautiful modern apartment in the heart of downtown, featuring high ceilings, large windows, and a fully equipped kitchen."
+  },
+  {
+    "id": 2,
+    "title": "Cozy Suburban House",
+    "type": "For Sale",
+    "price": 450000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "area": 2000,
+    "image": "/placeholder.svg?height=300&width=400",
+    "description": "Charming family home in a quiet suburban neighborhood, with a spacious backyard, renovated kitchen, and attached garage."
+  },
+  {
+    "id": 3,
+    "title": "Luxury Beachfront Villa",
+    "type": "For Sale",
+    "price": 1200000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 3500,
+    "image": "/placeholder.svg?height=300&width=400",
+    "description": "Stunning beachfront property with panoramic ocean views, private pool, and high-end finishes throughout."
+  },
+  {
+    "id": 4,
+    "title": "Urban Loft Studio",
+    "type": "For Rent",
+    "price": 1800,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 800,
+    "image": "/placeholder.svg?height=300&width=400",
+    "description": "Trendy loft-style studio in a converted warehouse, featuring exposed brick walls, high ceilings, and modern amenities."
+  }
+]

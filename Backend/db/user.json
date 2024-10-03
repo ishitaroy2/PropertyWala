@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "Akash",
+    "password": "$2y$10$32QTeYWpHquGJMY7655PienoYRb2FdULMOSL9usDZVtLwPyvJOjTS"
+  },
+  {
+    "id": 2,
+    "username": "ZapcomPOC",
+    "password": "$2y$10$VJjVLlDGKBwL3USmBERY2efLtUJfNcn7dUDw/CRIK9Njt.jLR7TTq"
+  },
+  {
+    "id": 3,
+    "username": "nikhil.core2@gmail.com",
+    "password": "$2a$10$LWmp/M6OtkayVjKK64rf9O1UZjSEMcFCqj0OODt58vTWsBkrhbR.2"
+  }
+]
